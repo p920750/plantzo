@@ -107,7 +107,7 @@ async function renderOrders() {
 
 // Back button functionality
 document.getElementById('back-button').addEventListener('click', () => {
-    window.location.href = "landing.html";
+    window.location.href = "index.html";
 });
 
 // Render orders on page load
