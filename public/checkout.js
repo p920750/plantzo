@@ -1,6 +1,6 @@
 // Go Back to the Previous Page
 function goBack() {
-    window.location.href = "landing.html"; // Redirect to landing page
+    window.location.href = "index.html"; // Redirect to landing page
 }
 
 // Attach event listeners when DOM content is loaded
